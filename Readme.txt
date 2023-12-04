@@ -1,5 +1,6 @@
 
-Website Name: Alternative Technical Solution
-Template URL: https://atssol.com
-Author: Atssol.com
-License: https://atssol.com/privacypolicy.html/
+
+Template Name: Alternative Technical Solution
+Template URL: https://ats.com/
+Author: ats.com
+License: https://ats.com/
