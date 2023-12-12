@@ -1,6 +1,6 @@
 
 
 Template Name: Alternative Technical Solution
-Template URL: https://ats.com/
-Author: ats.com
-License: https://ats.com/
+Template URL: https://atssol.com/
+Author: atssol.com
+License: https://atssol.com/
